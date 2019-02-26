@@ -1,0 +1,7 @@
+spring:
+  cloud：
+  config:
+    url：http://localhost:8888
+    name: itoken-zipkin
+    label: master
+    profile: prod
